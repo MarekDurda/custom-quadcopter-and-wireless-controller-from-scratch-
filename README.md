@@ -6,8 +6,6 @@ This repository serves as a showcase of a fully custom quadcopter drone and its 
 The project was highly successful and placed in the **Top 10 in the National Round of the SOČ** (Students' Professional Activities) competition in the Czech Republic in the Electrical Engineering category (2023).
 
 ## Project Gallery
-*(Tip: Sem vlož 1-2 opravdu pěkné fotky dronu a ovladače, případně odkaz na YouTube video, kde dron letí)*
-
 ![Custom Drone Assembly](images/drone_photo.jpg)
 *Fully assembled quadcopter with custom 3D printed frame and flight controller.*
 
