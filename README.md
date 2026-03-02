@@ -25,7 +25,7 @@ Instead of using off-the-shelf flight controllers, I designed and implemented th
 
 ### Software (C / Arduino IDE)
 * **Flight Dynamics:** Implemented a custom PID controller for multi-axis stabilization.
-* **Sensor Fusion:** Processed raw IMU data to estimate the drone's spatial orientation.
+* **Sensor Fusion:** Processed raw IMU data to estimate the drone's orientation.
 * **Wireless Communication:** Reliable data packet transmission between the remote and the drone.
 
 ### Mechanical Design (FreeCAD)
