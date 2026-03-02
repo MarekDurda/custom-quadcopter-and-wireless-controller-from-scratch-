@@ -3,7 +3,8 @@
 ## Overview
 This repository serves as a showcase of a fully custom quadcopter drone and its wireless remote controller, built entirely from scratch during my high school studies. 
 
-The project was highly successful and placed in the **Top 10 in the National Round of the SOČ** (Students' Professional Activities) competition in the Czech Republic in the Electrical Engineering category (2023).
+The project was highly successful and placed in the **Top 10 in the National Round of the SOČ** (Středoškolská odborná činnost
+) competition in the Czech Republic in the Electrical Engineering category (2023).
 
 ## Project Gallery
 ![Custom Drone Assembly](images/drone.jpeg)
