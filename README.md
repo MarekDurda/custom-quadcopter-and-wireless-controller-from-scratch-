@@ -9,7 +9,7 @@ The project was highly successful and placed in the **Top 10 in the National Rou
 ![Custom Drone Assembly](images/drone.jpeg)
 *Fully assembled quadcopter with custom 3D printed frame and flight controller.*
 
-![Wireless Controller](images/controller.jpeg)
+![Wireless Controller](images/controller-front.jpeg)
 *Custom-built wireless remote controller.*
 
 > **🎥 Watch the flight test video on YouTube:** [Link to your video]
