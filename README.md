@@ -7,11 +7,8 @@ The project was highly successful and placed in the **Top 10 in the National Rou
 ) competition in the Czech Republic in the Electrical Engineering category (2023).
 
 ## Project Gallery
-![Custom Drone Assembly](images/drone.jpeg)
+![Custom Drone Assembly](images/drone-controller.jpeg)
 *Fully assembled quadcopter with custom 3D printed frame and flight controller.*
-
-![Wireless Controller](images/controller-front.jpeg)
-*Custom-built wireless remote controller.*
 
 ## System Architecture
 
