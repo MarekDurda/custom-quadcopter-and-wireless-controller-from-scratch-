@@ -13,8 +13,6 @@ The project was highly successful and placed in the **Top 10 in the National Rou
 ![Wireless Controller](images/controller-front.jpeg)
 *Custom-built wireless remote controller.*
 
-> **🎥 Watch the flight test video on YouTube:** [Link to your video]
-
 ## System Architecture
 
 Instead of using off-the-shelf flight controllers, I designed and implemented the entire system architecture myself. This required cross-disciplinary integration of mechanical design, hardware engineering, and embedded software.
