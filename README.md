@@ -19,7 +19,7 @@ The project was highly successful and placed in the **Top 10 in the National Rou
 Instead of using off-the-shelf flight controllers, I designed and implemented the entire system architecture myself. This required cross-disciplinary integration of mechanical design, hardware engineering, and embedded software.
 
 ### Hardware (KiCad)
-* **Flight Controller Board:** Custom PCB design accommodating the main microcontroller, IMU sensors, and motor driver interfaces.
+* **Flight Controller Board:** Custom PCB design including the main microcontroller, IMU sensors, power management and motor driver outputs.
 * **Remote Controller Board:** Custom PCB for the handheld transmitter, including joystick inputs and a wireless transceiver module.
 * Both boards were designed from schematic to final routing using KiCad.
 
